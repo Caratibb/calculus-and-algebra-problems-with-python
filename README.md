@@ -1,23 +1,31 @@
-<!--hide-->
-# Calculus and algebra in Python - Step by step guide
-<!--endhide-->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- Complete the problems using calculus, algebra and Python.
+###
 
-## 🌱 How to start this project
+<p align="left">My name is Cara and I'm a Data scientist and Machine learning Engineer from 4 Geeks.</p>
 
-Follow the instructions below:
+###
 
-1. Create a new repository by forking the [Git project](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python) or [by clicking here](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/fork).
-2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
+<h2 align="left">About me</h2>
 
-## 🚛 How to deliver this project
+###
 
-Once you have finished solving the exercises, be sure to commit your changes, push them to your repository, and go to 4Geeks.com to upload the repository link.
+<p align="left">📚 I'm currently learning more about python, data scientist, and machine learning<br>🎯 Goals: increase my knowledge in machine learning and data analysis<br>🎲 Fun fact: I have been doing some kind of engineering or learning engineering for the past 5 years</p>
 
-## 📝 Instructions
+###
 
-Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
+<h2 align="left">I code with</h2>
 
-> Solution: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
